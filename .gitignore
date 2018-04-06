@@ -1,3 +1,5 @@
+# ignore vs dir
+.vs/
 
 # Ignore Visual Studio  Project #
 ###################
