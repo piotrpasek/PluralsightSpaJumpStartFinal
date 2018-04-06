@@ -1,5 +1,6 @@
 # ignore vs dir
 .vs/
+.localhistory/
 
 # Ignore Visual Studio  Project #
 ###################
